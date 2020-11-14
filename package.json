@@ -1,0 +1,24 @@
+{
+  "name": "belle",
+  "version": "1.0.0",
+  "description": "Belle server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bangood/Belle.git"
+  },
+  "keywords": [
+    "Belle",
+    "Nodejs",
+    "es6"
+  ],
+  "author": "Bangood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bangood/Belle/issues"
+  },
+  "homepage": "https://github.com/Bangood/Belle#readme"
+}
