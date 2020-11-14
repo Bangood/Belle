@@ -4,7 +4,7 @@
   "description": "Belle server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "git-cz"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/Bangood/Belle/issues"
   },
-  "homepage": "https://github.com/Bangood/Belle#readme"
+  "homepage": "https://github.com/Bangood/Belle#readme",
+  "devDependencies": {
+    "commitizen": "^4.2.2",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
 }
