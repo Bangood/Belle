@@ -47,6 +47,7 @@
     }
   },
   "dependencies": {
-    "mongoose": "^5.10.14"
+    "mongoose": "^5.10.14",
+    "signale": "^1.4.0"
   }
 }
