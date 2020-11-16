@@ -1,4 +1,5 @@
 {
+    "env": {"mocha": true},
     "extends": "airbnb-base",
     "parser": "@babel/eslint-parser"
 }
