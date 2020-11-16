@@ -45,5 +45,8 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "mongoose": "^5.10.14"
   }
 }
